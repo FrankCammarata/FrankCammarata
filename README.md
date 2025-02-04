@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I just wanted to make a website about my food, but here I am, Learning Github and HTML. Fun.
+## I just wanted to make a website about my food, but here I am, learning Github and HTML. Fun.
 <!--
 **FrankCammarata/FrankCammarata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
